@@ -1,12 +1,12 @@
 body{
- background: #e55d87; 
-  background: -webkit-linear-gradient(to right, #e55d87, #5fc3e4); 
-  background: linear-gradient(to right, #e55d87, #5fc3e4); 
+ background: #85c1e9; 
+  background: -webkit-linear-gradient(to right, #74c7fd, #0693ee); 
+  background: linear-gradient(to right, #74c7fd, #0693ee); 
 }
 
 
 h1{
-	color: pink;
+	color: black;
 	text-align: center;
     font-family: "Poppins", sans-serif;
 }
